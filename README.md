@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Ram Jesler B. Delos Santos</h1>
-<h3 align="center">A Computer Engineering student passionate about crafting innovative digital solutions through software, mobile, and web development.</h3>
+<h3 align="center">A Computer Engineering Technology graduate passionate about crafting innovative digital solutions through software, mobile, and web development.</h3>
 
 ---
 
